@@ -30,3 +30,34 @@ nav a {
   color: #007bff;
   font-size: 18px;
 }
+
+nav a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+h3#header {
+  float: left;
+  font-size: 30px;
+}
+
+#header a {
+  text-decoration: none;
+  color: #868e96;
+}
+
+#header a:hover {
+  text-decoration: underline;
+}
+
+main {
+  margin-top: 20px;
+}
+
+div.jumbotron {
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+}
+
